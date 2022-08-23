@@ -41,8 +41,16 @@ margin: 0;
 
 /*MAIN INDEX*/
 .carrusel{
+  height:50rem;
+  width:50rem;
+  
+  
+}
+.mainPadre{
   align-items: center;
-  justify-items: center;
+  justify-content: center;
+  margin-top: 60px;
+  margin-left: 50%;
 }
 
 
