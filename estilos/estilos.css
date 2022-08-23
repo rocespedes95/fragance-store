@@ -154,24 +154,20 @@ margin: 0;
 }
 /*MAIN WOMEN*/
 
-.main-women{
+.mainWomen{
   display: flex;
   flex-wrap: wrap;
   gap: 15px;
-  margin: 80px;
+  margin: 50px;
   
   
-  text-align: center ;
+  
 }
 
-.img-women{
-  width: 35rem;
-  border-radius: 9px;
-}
-.main-women h4 {
-  color:#ff0054;
-  font-size: 35px;
-}
+
+
+
+
 
 
 /*NAVEGADOR KIDS*/
