@@ -103,31 +103,7 @@ margin: 0;
 
 
 /*MEDIA QUERIE CELU INDEX 480px*/
-.mainPadre{
-  margin: 20px;
-  grid-area: mainPadre ;
-}
-.header{
-   grid-area: header;
-}
-
-.video1{
-  grid-area: video1;
-}
-.footer{
-  grid-area: footer;
-}
-
-@media(min-width:480px){
-  .gridPadre{
-    grid-template-areas: 
-    "header header"
-    "header header"
-    "mainPadre "
-    "video1 "
-    "footer ";
-  }
-}
+/*hacer cambios lo antes posible no duermas gordo teta floja*/
 
 
 
@@ -149,24 +125,20 @@ margin: 0;
 }
 /*MAIN MENS*/
 
-.mainmensProductos {
+.mainMen {
   display: flex;
   flex-wrap: wrap;
   gap: 15px;
-  margin: 80px;
+  margin-left: 50px;
   
   
-  text-align: center ;
+ 
   
 }
-.mainmensProductos h4{
-  color: #00296b;
-  font-size: 25px;
-}
-.img-mens{
-  width: 35rem;
-  border-radius: 9px;
-}
+
+
+
+
 /*NAVEGADOR WOMEN*/
 
 .nav-women {
