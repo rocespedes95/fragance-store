@@ -41,8 +41,7 @@ margin: 0;
 
 /*MAIN INDEX*/
 .carrusel{
-  height:50rem;
-  width:50rem;
+
   
   
 }
@@ -87,6 +86,7 @@ margin: 0;
   height: 150px;
   
 }
+
 .nav-men li a {
   font-size: 40px;
 }
@@ -97,6 +97,7 @@ margin: 0;
   flex-wrap: wrap;
   gap: 15px;
   margin-left: 50px;
+  margin-top: 50px;
   
   
  
